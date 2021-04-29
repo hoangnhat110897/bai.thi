@@ -1,0 +1,397 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin: 0;
+   padding: 0;}
+#wrapper {
+	width: 100%;
+	height: 4200px;
+	 background:  #CB7072;
+	position: relative;
+	
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+.header {
+	width: 100%;
+	height: 100px;
+}
+.logo {
+	width: 10%;
+	height: 100px;
+	float: left;
+	background: black;
+}
+.logo a img{
+	width: 50%;
+	height: 80px;
+	margin-left: 30px;
+	padding: 5px;
+	margin-top: 5px
+}
+.menu {
+	width: 80%;
+	height: 100px;
+	background: #000000;
+	float: left
+}
+.menu ul {
+	list-style: none;
+	text-align:  center;
+}
+.menu ul li {
+	display: inline-block;
+	margin: 0 100px;
+	line-height: 100px;
+}
+.menu ul li a {
+	font-size: 20px;
+	color: white;
+}
+.icon {
+	width: 10%;
+	height: 100px;
+	background: black;
+    float: right;
+}
+.icon span {
+	color: white;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 15px;
+}
+.main {
+	width: 100%;
+	height: 1000px;
+	background: white;
+}
+.box {
+	width: 100%;
+	height: 500px;
+	background: black;
+	position: relative;
+}
+.box video {
+	width: 100%;
+	height: 600px;
+}
+.box2 {
+	width: 100%;
+	height: 1000px;
+	background: black;
+}
+.nav {
+	width: 60%;
+	height: 1000px;
+	background: BLACK;
+	float: left;
+}
+.nav ul{
+	text-align: center;
+	margin-top:  500px ;
+}
+.nav ul li {
+	font-size: 25px;
+	color: white;
+}
+.nav ul p {
+	font-size: 25px;
+	color: white;
+	position: relative;
+}
+.nav2 {
+	width: 40%;
+	height: 1000px;
+	background: white;
+	float: right;
+}
+.nav2 img {
+	width: 65%;
+    position:  relative;
+	top: 250px;
+    left: 50px;
+}
+.headline {
+	width: 20%;
+	height: 100px;
+	background: black;
+	position: relative;
+	left: 750px;
+	top: 200px
+}
+.headline ul {
+	text-align: center;
+	padding: 30px;
+}
+.headline ul li {
+	font-size: 40px;
+	color:  white;
+}
+.box3{
+	width: 100%;
+	height: 200px;
+	background: black;
+}
+.box3 ul{
+	text-align: center;
+	position: relative;
+	top: 20px;
+	left: 30px
+}
+.box3 ul li {
+	font-size: 40px;
+	color: white;
+}
+.box4 {
+	width: 100%;
+	height: 1000px;
+	background: #A9B1E3
+}
+.nav3{
+	width: 50%;
+	height: 500px;
+	background: black;
+	float: left;
+}
+.nav3 ul{
+	width: 40%;
+}
+.nav3 ul li{
+	padding: 30px;
+	margin-top: 30px;
+	margin-left: 200px;
+	font-size: 20px;
+	color: white;
+	border: 0px solid ;
+}
+.score {
+	width: 78%;
+	height: 10px;
+	background: white;
+	position: relative;
+	left: 450px;
+	top: 100px;
+}
+.score p{
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color: white;
+}
+.score2{
+	width: 60%;
+	height: 10px;
+	background: white;
+	position: relative;
+	left: 450px;
+	top: 210px;
+}
+.score2 p {
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color: white;
+}
+.score3{
+	width: 70%;
+	height: 10px;
+	background: white;
+	position: relative;
+	left: 450px;
+	top: 330px;
+}
+.score3 p{
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color: white;
+}
+.nav4{
+	width: 50%;
+	height: 500px;
+	background: black;
+	float: left;
+}
+.nav4 ul{
+	width: 40%;
+}
+.nav4 ul li{
+	padding: 30px;
+	margin-top: 30px;
+	margin-left: 200px;
+	font-size: 20px;
+	color: white;
+	border: 0px solid ;
+}
+.score4{
+	width: 70%;
+	height: 10px;
+	background: white;
+	position: relative;
+	left: 450px;
+	top: 100px;
+}
+.score4 p{
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color: white;
+}
+.score5{
+	width: 60%;
+	height: 10px;
+	background: white;
+	position: relative;
+	left: 450px;
+	top: 210px;
+}
+.score5 p {
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color: white;
+}
+.score6 {
+	width: 50%;
+	height: 10px;
+	background: #FDFDFD;
+	position: relative;
+	left: 450px;
+	top: 330px;
+}
+.score6 p {
+	position: relative;
+	left: 220px;
+	bottom: 20px;
+	color:white;
+}
+.box4 {
+	width: 100%;
+	height: 500px;
+	background: #E85A5D;
+}
+.box4 img{
+	width: 100%;
+}
+.box5 {
+	width: 100%;
+	height: 1000px;
+	background: white;
+}
+.box5 h1 {
+	text-align: center;
+	color: black;
+	font-size: 45px;
+}
+.nav5 {
+	width: 50%;
+	height: 1000px;
+	background: white;
+	float: left;
+}
+.nav5 img {
+	width: 100%;
+	position: relative;
+/*
+	left: 200px;
+	top: 100px;
+*/
+}
+.nav6 {
+	width: 50%;
+	height: 1000px;
+	background:white;
+	float: right;
+}
+.nav6 img {
+	width: 100%;
+}
+.box6{
+	width: 100%;
+	height: 1000px;
+	background: black;
+	margin-top: 300px;
+}
+.box6 img {
+	width: 100%;
+} 
+.box7{
+	width: 50%;
+	height: 1000px;
+	background: #9E3435;
+	float: left;
+}
+.box7 img {
+	width: 100%;
+	height: 1400px
+}
+.box8 {
+	width:50%;
+	height: 1000px;
+	background: #6F3536;
+	float: right
+}
+.box8 img{
+	width: 100%;
+	height: 1400px;
+}
+.box9 {
+	width: 100%;
+	height: 500px;
+	background: #BC4547;
+	position: relative;
+	top: 1400px;
+}
+.box9 h1 {
+	text-align: center;
+	position: relative;
+	bottom: 950px;
+	font-size: 40px;
+	color: white
+}
+.box9 ul{
+	text-align: center
+}
+.box9 ul li{
+	display: inline-block;
+	margin: 0 100px;
+	font-size: 30px;
+	position: relative;
+	bottom: 850px;
+	color: white;
+}
+.box9 ul2{
+	text-align: center;
+}
+.box9 ul2 li{
+	display: inline-block;
+	margin: 0 150px;
+	padding: 10z0px;
+	font-size: 20px;
+	position: relative;
+	bottom: 850px;
+	color: white;
+	left: 350px
+}

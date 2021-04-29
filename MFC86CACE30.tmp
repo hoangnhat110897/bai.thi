@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BAI THI CUOI MON</title>
+	<link rel="stylesheet" href="CSS/Style.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+</head>
+
+<body>
+	<div id="wrapper">
+		<div class="header">
+		    <div class="logo"><a href="#"><img src="IMG/home-icon-png-white-4.png"></a></div>
+			<div class="menu">
+			<ul>
+				<li><a href="#">ABOUT ME</a></li>
+				<li><a href="#">SKILLS</a></li>
+				<li><a href="#">PORTFOLIO</a></li>
+				<li><a href="#">CONTACT</a></li>
+				</ul>
+			</div>
+			<div class="icon">
+				<a href="#">
+			<span class="material-icons">
+             settings
+					</span></a>
+				<a href="#"><span class="material-icons">
+					search </span>
+				</a>
+			</div>
+		</div>
+		<div class="main">
+			<div class="box"><a href="#"><img src="IMG/3b2323c2f46806365f79.jpg"></a></div>
+			<div class="box2">
+				<div class="headline">
+			<ul><li>ABOUT ME</li></ul>
+				</div>
+			<div class="nav">
+				<ul>
+				  <li>MY NAME IS HOANG NHAT</li>
+					<br> <br>
+				  <li>Professional Graphic designer.and i am very passionate and ded- icated to my work.with 10 years ence as a professional graphic de- signer.I have acquired the skills and knowledge neccessary to make your project enjoy every step of design process.from discussion and collaboration to concept and excution,but most tion in seeing the finised product do everything for you that it was created to do</li>
+				</ul>
+				
+				</div>
+			<div class="nav2"><a href="#"><img src="IMG/bbddff98d82d2a73733c.jpg"></a></div>
+			</div>
+			<div class="box3">
+			<ul><li>SKILLS</li></ul>
+			 
+				</div>
+			
+			
+			</div>
+		<div class="footer"></div>
+		
+			
+	</div></div>
+	
+		  
+		  
+		
+</body>
+</html>
